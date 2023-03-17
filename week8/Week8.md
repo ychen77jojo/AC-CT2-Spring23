@@ -9,10 +9,10 @@ Interactive possibilities: Mouse simulates hand, touching glass ball
 
 
 ## Sketch
-![image](https://github.com/ychen77jojo/AC-CT2-Spring23/blob/main/Untitled_Artwork.jpg?raw=true)
+![image](https://github.com/ychen77jojo/AC-CT2-Spring23/blob/main/week8/Untitled_Artwork.jpg?raw=true)
 
 ## Moodboard
-![image](https://github.com/ychen77jojo/AC-CT2-Spring23/blob/main/1.jpg?raw=true)
+![image](https://github.com/ychen77jojo/AC-CT2-Spring23/blob/main/week8/1.jpg?raw=true)
 
 I was influenced by works of Brett Whiteley. The aesthetic goal is to portray a poetic, hazy dream world where dimensions dissolve and objects intertwine.
 
