@@ -50,6 +50,11 @@ void loop() {
 
 }
 ```
+## User Feedback
+- Music and sound effects can be added
+- The ship can add shooting function to shoot meteorites
+- The speed of the ship can get faster and faster with time
+
 ## Reflection
 This unity homework let me know that all Assets should have only one unique version, when unity3d encounter the sudden death of unsaved scenes, you can find the Temp folder in the project file directory, double-click the folder, find the -Backupscenes folder, change the file suffix to unity. Then drag it into the project interface of unity3d, so that you can restore the last situation of the scene before the crash.
 
